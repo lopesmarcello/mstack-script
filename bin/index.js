@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const readLine = require("readline");
 const yargs = require("yargs");
 const { execSync } = require("child_process")
